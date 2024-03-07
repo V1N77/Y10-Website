@@ -1,1 +1,19 @@
+#Title {
+    text-align: center;
+    font-size: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
+h1 {
+    text-align: center;
+    font-size: 90px;
+    text-decoration:line-through;
+    font-family: fantasy;
+    color: rgb(67, 167, 255);
+}
+
+h2 {
+    text-align: center;
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
