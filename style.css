@@ -13,7 +13,11 @@ h1 {
 }
 
 #PLAY {
-    text-align: center;
-    font-size: 100px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    height: 200px;
+    font-size: 120px;
+    color: aliceblue;
+    background-color: #233981;
 }
