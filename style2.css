@@ -2,7 +2,7 @@
     text-align: center;
     font-size: 150px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: black;
+    color: #fff6f6;
 }
 
 h1 {
@@ -10,7 +10,7 @@ h1 {
     font-size: 90px;
     text-decoration:line-through;
     font-family: fantasy;
-    color: rgb(67, 167, 255);
+    color: rgb(25, 51, 75);
 }
 
 #PLAY {
@@ -20,18 +20,18 @@ h1 {
     height: 200px;
     font-size: 120px;
     color: aliceblue;
-    background-color: #233981;
-        color: #f0eded; /* Set the default color of the text */ 
+    background-color: skyblue;
+        color: #221f1f; /* Set the default color of the text */ 
         transition: color 0.3s; /* Add a transition for a smooth effect */ 
-        border-color: black;
+        border-color: white;
       } 
        
       #PLAY:hover { 
-        color: #202020; /* Change the text color on hover */ 
-        background-color: lightskyblue;
+        color: #fff6f6; /* Change the text color on hover */ 
+        background-color: rgb(35, 57, 129);
         transform: scale(1.15,1.15);
       } 
 
-    #Light {
+      #Light {
      
-    }
+      }
