@@ -23,6 +23,7 @@ h1 {
     width: 400px;
     height: 200px;
     font-size: 120px;
+    border-radius: 5%;
     background-color: #233981;
         color: #f0eded;
         transition: color 0.5s;
@@ -36,12 +37,20 @@ h1 {
       } 
 
 #darkbulbb {
-  width: 200px;
-  height: 200px;
-  background-color:rgb(255, 246, 246)
+  width: 150px;
+  height: 170px;
+  margin-left: auto;
+  border: #000000;
+  border-radius: 5%;
+  background-color:rgb(241, 231, 231)
  }
 
+#darkbulbb:hover {
+  background-color: #e7dede;
+  transform: scale(1.1,1.1)
+}
+
  #darkbulb {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 120px;
  }
